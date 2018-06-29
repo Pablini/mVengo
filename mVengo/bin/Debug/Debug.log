@@ -1,0 +1,168 @@
+﻿Invengo RFID Log
+2015-08-03 18:04:13,203 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-03 18:04:13,219 [10] FATAL - Reader1: ErrCode:FF19 A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.210:7086
+2015-08-03 18:04:56,807 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-03 18:04:56,818 [10] FATAL - Reader1: ErrCode:FF19 A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.210:7086
+2015-08-04 09:17:15,928 [6] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-04 09:59:24,550 [11] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-04 09:59:24,567 [11] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-08-04 10:01:37,709 [11] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-04 10:01:37,728 [11] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-08-04 10:57:58,498 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-04 10:57:58,521 [10] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-20 13:41:12,096 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-20 13:41:12,132 [10] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-20 15:19:57,346 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-20 15:19:57,383 [10] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-20 16:26:13,137 [11] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-20 23:40:12,132 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-20 23:40:12,154 [10] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-08-21 10:07:07,328 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-21 10:07:07,358 [10] FATAL - Reader1: ErrCode:FF19 A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.210:7086
+2015-08-21 10:07:33,456 [10] WARN - Reader1: ErrCode:FF22 
+2015-08-21 10:07:38,515 [11] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-21 13:12:29,441 [9] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-21 13:12:29,546 [9] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-21 13:28:59,070 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-21 13:28:59,083 [10] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+2015-08-21 13:29:08,204 [9] WARN - Reader1: ErrCode:FF22 
+2015-08-21 13:29:11,477 [9] WARN - Reader1: ErrCode:FF22 
+2015-08-21 13:30:07,317 [12] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 14:51:44,084 [11] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-24 14:51:44,170 [11] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 15:22:51,763 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-24 15:22:51,779 [10] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 15:22:52,232 [9] WARN - Reader1: ErrCode:FF22 
+2015-08-24 15:22:52,233 [9] WARN - Reader1: ErrCode:FF22 
+2015-08-24 15:22:52,234 [9] WARN - Reader1: ErrCode:FF22 
+2015-08-24 15:22:52,235 [9] WARN - Reader1: ErrCode:FF22 
+2015-08-24 15:22:58,643 [9] WARN - Reader1: ErrCode:FF22 
+2015-08-24 15:22:58,646 [9] WARN - Reader1: ErrCode:FF22 
+2015-08-24 15:23:08,772 [9] WARN - Reader1: ErrCode:FF22 
+2015-08-24 15:25:17,390 [9] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-24 15:25:17,410 [9] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 15:25:19,604 [10] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 15:25:22,495 [9] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 15:25:25,604 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-24 15:25:26,482 [10] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 15:25:29,511 [11] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 15:25:39,568 [12] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 15:25:43,242 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-24 15:25:44,152 [13] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 15:25:51,544 [11] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-24 15:25:51,558 [11] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 15:25:54,121 [12] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 16:03:00,071 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-24 16:03:00,093 [10] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 16:03:02,917 [11] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 16:03:05,814 [9] WARN - Reader1: ErrCode:FF22 
+2015-08-24 16:03:06,887 [10] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-24 16:03:10,035 [3] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-25 11:15:41,724 [9] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-25 11:15:41,825 [9] FATAL - Reader1: ErrCode:FF19 A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.210:7086
+2015-08-26 13:06:11,763 [6] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-27 10:03:08,864 [9] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-27 10:03:08,901 [9] FATAL - Reader1: ErrCode:FF19 A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.0.207:7086
+2015-08-27 10:03:43,067 [9] FATAL - Reader1: ErrCode:FF19 A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.0.207:7086
+2015-08-27 10:12:37,809 [9] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-27 10:12:37,825 [9] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-08-27 10:13:19,111 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 10:13:19,115 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 10:13:19,118 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 10:13:19,121 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 10:13:20,457 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 10:13:26,969 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 10:13:26,972 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 10:13:26,976 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 10:13:26,977 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 10:13:28,093 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 10:13:32,571 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 10:13:37,396 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 10:13:47,712 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 11:00:52,681 [3] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-27 11:02:07,601 [11] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-08-27 11:56:45,296 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-27 11:56:45,324 [10] FATAL - Reader1: ErrCode:FF19 A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.210:7086
+2015-08-27 14:23:46,374 [9] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-27 14:23:46,406 [9] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-08-27 14:23:56,333 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-27 16:25:52,052 [3] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-31 08:32:47,346 [8] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-31 08:32:47,367 [8] FATAL - Reader1: ErrCode:FF19 A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.210:7086
+2015-08-31 08:36:25,722 [11] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-31 08:36:25,751 [8] ERROR - Reader1: ErrCode:FF21 Unable to write data to the transport connection: An established connection was aborted by the software in your host machine.
+2015-08-31 08:36:25,752 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-31 08:36:25,754 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-31 08:36:25,755 [8] WARN - Reader1: ErrCode:FF22 
+2015-08-31 08:39:50,000 [9] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-08-31 08:43:29,041 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-31 08:43:29,050 [10] FATAL - Reader1: ErrCode:FF19 A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.10.210:7086
+2015-08-31 08:43:52,772 [10] FATAL - Reader1: ErrCode:FF19 A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.10.210:7086
+2015-08-31 08:45:26,517 [11] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-31 08:45:26,526 [11] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2015-08-31 12:46:02,276 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-08-31 12:46:02,384 [10] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-08-31 16:16:13,634 [16] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-10 12:53:34,097 [11] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-10 12:53:34,126 [11] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-09-10 12:53:53,341 [10] WARN - Reader1: ErrCode:FF22 
+2015-09-10 13:12:44,994 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-10 13:12:45,023 [10] FATAL - Reader1: ErrCode:FF19 A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.210:7086
+2015-09-10 13:23:48,930 [19] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-09-11 11:48:53,511 [14] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-11 17:15:05,901 [12] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-11 17:17:44,572 [16] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-14 11:06:14,077 [9] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-14 11:06:14,092 [9] FATAL - Reader1: ErrCode:FF19 A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.210:7086
+2015-09-14 12:57:39,783 [11] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-14 12:57:39,826 [11] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-09-14 12:57:47,971 [12] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-09-14 15:47:57,417 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-14 15:47:57,489 [10] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-09-14 17:18:58,614 [3] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-17 10:39:17,501 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-17 10:39:17,534 [10] FATAL - Reader1: ErrCode:FF19 A socket operation was attempted to an unreachable network 192.168.1.210:7086
+2015-09-17 10:39:58,264 [6] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-09-17 10:40:33,875 [11] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-09-17 10:40:50,990 [10] WARN - Reader1: ErrCode:FF22 
+2015-09-17 10:46:40,523 [6] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-09-17 11:12:45,987 [10] WARN - Reader1: ErrCode:FF22 
+2015-09-17 12:31:07,731 [11] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-17 12:31:07,734 [11] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-09-17 12:54:57,750 [10] WARN - Reader1: ErrCode:FF22 
+2015-09-22 15:37:26,805 [11] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-22 15:37:26,809 [11] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-09-22 15:38:06,214 [10] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:51:46,066 [3] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-23 09:51:46,099 [3] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-09-23 09:51:46,442 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:51:46,443 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:51:46,445 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:51:46,446 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:51:46,550 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:51:46,561 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:51:46,565 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:51:46,569 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:51:46,572 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:51:46,574 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:51:52,608 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:51:52,611 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:52:03,304 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:52:03,306 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:52:06,448 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:52:06,452 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:52:11,978 [1] WARN - Reader1: ErrCode:FF22 
+2015-09-23 09:52:13,426 [3] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-09-23 09:52:16,096 [4] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-09-23 09:52:19,407 [5] WARN - Reader1: ErrCode:FF22 The given key was not present in the dictionary.
+2015-09-23 09:52:39,466 [3] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-23 09:52:39,477 [3] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-09-23 10:06:26,867 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-09-23 10:06:26,887 [10] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-10-02 17:18:57,674 [6] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-10-02 17:18:57,690 [6] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-11-06 11:35:14,017 [11] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-11-06 11:35:14,022 [11] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2015-11-06 12:23:44,829 [10] WARN - Reader1: ErrCode:FF22 
+2015-11-06 16:05:07,671 [10] FATAL - ErrCode.xml: ErrCode:FF11 
+2015-11-06 16:05:07,731 [10] WARN - Reader1: ErrCode:FF22 Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.

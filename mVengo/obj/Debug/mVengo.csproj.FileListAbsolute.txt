@@ -1,0 +1,14 @@
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\bin\Debug\Invengo101.exe.config
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\bin\Debug\Invengo101.exe
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\bin\Debug\Invengo101.pdb
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\bin\Debug\M2Mqtt.Net.dll
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\obj\Debug\Invengo101.Form1.resources
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\obj\Debug\Invengo101.Properties.Resources.resources
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\obj\Debug\mVengo.csproj.GenerateResource.cache
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\obj\Debug\mVengo.csproj.CoreCompileInputs.cache
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\obj\Debug\mVengo.csproj.CopyComplete
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\obj\Debug\Invengo101.exe
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\obj\Debug\Invengo101.pdb
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\bin\Debug\MySql.Data.dll
+C:\Users\ppratsc\Desktop\WorkSpace\mVengo\mVengo\obj\Debug\mVengo.csprojAssemblyReference.cache

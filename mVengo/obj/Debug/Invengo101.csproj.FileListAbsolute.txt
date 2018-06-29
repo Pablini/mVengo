@@ -1,0 +1,29 @@
+C:\Users\Brett\Documents\Invengo\Software Development\Invengo101-IRP1\Invengo101\Invengo101\bin\Debug\Invengo101.exe.config
+C:\Users\Brett\Documents\Invengo\Software Development\Invengo101-IRP1\Invengo101\Invengo101\bin\Debug\Invengo101.exe
+C:\Users\Brett\Documents\Invengo\Software Development\Invengo101-IRP1\Invengo101\Invengo101\bin\Debug\Invengo101.pdb
+C:\Users\Brett\Documents\Invengo\Software Development\Invengo101-IRP1\Invengo101\Invengo101\obj\Debug\Invengo101.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Documents\Invengo\Software Development\Invengo101-IRP1\Invengo101\Invengo101\obj\Debug\Invengo101.Form1.resources
+C:\Users\Brett\Documents\Invengo\Software Development\Invengo101-IRP1\Invengo101\Invengo101\obj\Debug\Invengo101.Properties.Resources.resources
+C:\Users\Brett\Documents\Invengo\Software Development\Invengo101-IRP1\Invengo101\Invengo101\obj\Debug\Invengo101.csproj.GenerateResource.Cache
+C:\Users\Brett\Documents\Invengo\Software Development\Invengo101-IRP1\Invengo101\Invengo101\obj\Debug\Invengo101.exe
+C:\Users\Brett\Documents\Invengo\Software Development\Invengo101-IRP1\Invengo101\Invengo101\obj\Debug\Invengo101.pdb
+C:\Users\Brett\Documents\Invengo\Software Development\C# Apps\Invengo features\Invengo101\bin\Debug\Invengo101.exe.config
+C:\Users\Brett\Documents\Invengo\Software Development\C# Apps\Invengo features\Invengo101\obj\Debug\Invengo101.exe
+C:\Users\Brett\Documents\Invengo\Software Development\C# Apps\Invengo features\Invengo101\obj\Debug\Invengo101.pdb
+C:\Users\Brett\Documents\Invengo\Software Development\C# Apps\Invengo features\Invengo101\bin\Debug\Invengo101.exe
+C:\Users\Brett\Documents\Invengo\Software Development\C# Apps\Invengo features\Invengo101\bin\Debug\Invengo101.pdb
+C:\Users\Brett\Documents\Invengo\Software Development\C# Apps\Invengo features\Invengo101\obj\Debug\Invengo101.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Documents\Invengo\Software Development\C# Apps\Invengo features\Invengo101\obj\Debug\Invengo101.Form1.resources
+C:\Users\Brett\Documents\Invengo\Software Development\C# Apps\Invengo features\Invengo101\obj\Debug\Invengo101.Properties.Resources.resources
+C:\Users\Brett\Documents\Invengo\Software Development\C# Apps\Invengo features\Invengo101\obj\Debug\Invengo101.csproj.GenerateResource.Cache
+C:\Users\ppratsc\Desktop\Invengo\Invengo101\Invengo101\bin\Debug\Invengo101.exe.config
+C:\Users\ppratsc\Desktop\Invengo\Invengo101\Invengo101\bin\Debug\Invengo101.exe
+C:\Users\ppratsc\Desktop\Invengo\Invengo101\Invengo101\bin\Debug\Invengo101.pdb
+C:\Users\ppratsc\Desktop\Invengo\Invengo101\Invengo101\obj\Debug\Invengo101.Form1.resources
+C:\Users\ppratsc\Desktop\Invengo\Invengo101\Invengo101\obj\Debug\Invengo101.Properties.Resources.resources
+C:\Users\ppratsc\Desktop\Invengo\Invengo101\Invengo101\obj\Debug\Invengo101.csproj.GenerateResource.cache
+C:\Users\ppratsc\Desktop\Invengo\Invengo101\Invengo101\obj\Debug\Invengo101.csproj.CoreCompileInputs.cache
+C:\Users\ppratsc\Desktop\Invengo\Invengo101\Invengo101\obj\Debug\Invengo101.csproj.CopyComplete
+C:\Users\ppratsc\Desktop\Invengo\Invengo101\Invengo101\obj\Debug\Invengo101.exe
+C:\Users\ppratsc\Desktop\Invengo\Invengo101\Invengo101\obj\Debug\Invengo101.pdb
+C:\Users\ppratsc\Desktop\Invengo\Invengo101\Invengo101\obj\Debug\Invengo101.csprojAssemblyReference.cache
